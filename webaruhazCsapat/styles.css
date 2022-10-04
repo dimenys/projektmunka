@@ -1,0 +1,35 @@
+body{
+    background-color:darkcyan;
+}
+
+tr:nth-child(even){
+    background-color: rgb(76, 131, 131)
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(96, 230, 223);
+    
+}
+
+#rend{
+    text-align: left;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#rend2{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#rend3{
+    text-align: right;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+tr td {
+    height: 100px;
+}
+
